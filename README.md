@@ -13,7 +13,7 @@ Made with [contributors-img](https://contrib.rocks).
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<img src=https://komarev.com/ghpvc/?username = GitHub_Username/>
+<img src=https://komarev.com/ghpvc/?username = Re-LeaseD/>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Re-LeaseD/deneme)
 
