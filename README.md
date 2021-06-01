@@ -6,7 +6,7 @@
 
 <!-- Copy-paste in your Readme.md file -->
 <a href = "https://github.com/Re-LeaseD/deneme/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo = ReleaseD/repository_name"/>
+<img src = "https://contrib.rocks/image?repo = ReleaseD/deneme"/>
 </a>
 Made with [contributors-img](https://contrib.rocks).
 
@@ -18,7 +18,8 @@ Made with [contributors-img](https://contrib.rocks).
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Re-LeaseD/deneme)
 
 
-
+</br>
+</br>
 https://towardsdev.com/top-5-badges-that-will-take-your-github-repository-to-the-next-level-3f2d7dcc65b1
 Top 5 Badges That Will Take Your GitHub Repository to the Next Level
 Learn how to effectively manage your GitHub repository to attract and keep contributors with GitHub’s badges.
