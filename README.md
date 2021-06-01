@@ -12,7 +12,7 @@ Stats   |  Hits  | Contributors | Forks | Stars | Repo. size | Commits |
 --- | --- | --- | --- |--- |--- |--- |
 Data | ** | *** | *** | ** | **MB| ** |
 
-<--
+<!--
 #### Kaggle Datasets
 
 Name   |  View | Downloads |  Notebooks | Upvotes |
@@ -61,7 +61,7 @@ PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 
 
 
-<--
+<!--
 [website]: https://tanu-n-prabhu.github.io/myWebsite.io/
 [project]: https://tanu-n-prabhu.github.io/snapshot_wascana/index.html
 -->
