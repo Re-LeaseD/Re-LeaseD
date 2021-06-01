@@ -5,13 +5,14 @@
 #### GitHub Stats
 Stats 📊 | Repositories 📂 |  Commits (2019-20) 💾 | Followers 🧑‍🤝‍🧑 | 
 --- | --- | --- | --- |
-Data | 29 | 1,583 | 106 | 
+Data | ** | *** | *** | 
 
 #### Python Repository Stats
 Stats   |  Hits  | Contributors | Forks | Stars | Repo. size | Commits |
 --- | --- | --- | --- |--- |--- |--- |
-Data | 710 | 9 | 287 | 230 | 5.62MB| 507 |
+Data | ** | *** | *** | ** | **MB| ** |
 
+<--
 #### Kaggle Datasets
 
 Name   |  View | Downloads |  Notebooks | Upvotes |
@@ -23,7 +24,7 @@ List of Countries by number of Internet Users | 13,792  | 1,019  | 4 | 21 |
 Linear Regression Data-set | 21,637 | 6,319 | 10 | 20 | 
 Hyper Cars 2019 | 4,962  | 479  | 2 | 13 |
 PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
-
+-->
 
 ![Re-LeaseD's github stats](https://github-readme-stats.vercel.app/api?username=Re-LeaseD&show_icons=true)
 
@@ -60,8 +61,8 @@ PewDiePie's Subscribers | 2,818 | 498  | 1 | 8 |
 
 
 
-
+<--
 [website]: https://tanu-n-prabhu.github.io/myWebsite.io/
 [project]: https://tanu-n-prabhu.github.io/snapshot_wascana/index.html
-
+-->
 ---
